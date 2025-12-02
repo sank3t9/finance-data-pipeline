@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data (keep folder but not files)
+data/raw/*
+!.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
